@@ -29,7 +29,6 @@ This project is an implementation of TCP (Transmission Control Protocol) in RUST
 
 ### TCP Connection State Diagram
 ```txt
-September 1981
                                            Transmission Control Protocol
                                                 Functional Specification
 
